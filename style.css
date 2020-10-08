@@ -1,11 +1,15 @@
 #myHeader {
   color: #00BFFF;
   text-align: center;
+  font-weight: bold;
+  background-color: #FFFFF0;
 }
 
 #subHeader {
   color: #00CED1;
   text-align: center;
+  font-weight: semi-bold;
+  background-color: #FFFFF0;
 }
 
 .images {
@@ -13,7 +17,7 @@
 }
 
 table {
-  color: #FFFFF0;
+  background-color: #FFFFF0;
 }
 
 th {
