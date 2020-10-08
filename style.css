@@ -2,34 +2,40 @@ body {
   background-color: #FFFFF0;
 }
 
-
 #myHeader {
   color: #00BFFF;
-  text-align: center;
-  font-weight: bold;
   background-color: #FFFFF0;
+  text-align: center;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 300%;
+  font-weight: 900;
+  word-spacing: 5px;
+ 
 }
 
 #subHeader {
   color: #00CED1;
-  text-align: center;
-  font-weight: semi-bold;
   background-color: #FFFFF0;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 250%;
+  word-spacing: 5px;
 }
 
 .images {
   border-radius: 8px;
 }
 
-table {
+table, th, td {
   background-color: #FFFFF0;
+  border-collapse: collapse;
+  width: 100%;
 }
 
 th {
+  height: 50px;
 }
 
 .planet {
-}
-
-td {
 }
