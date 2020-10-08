@@ -27,14 +27,20 @@ body {
   border-radius: 8px;
 }
 
-table, th, td {
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
   background-color: #FFFFF0;
+}
+  
+ table {
   border-collapse: collapse;
+  background-color: #FFFFF0;
   width: 100%;
 }
 
-th {
-  height: 50px;
+th, td {
+  padding: 15px;
 }
 
 .planet {
