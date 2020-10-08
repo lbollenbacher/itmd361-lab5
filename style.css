@@ -28,7 +28,7 @@ body {
 }
 
 table, td, th {
-  border: 1px solid #ddd;
+  border: 1px solid #00BFFF;
   text-align: left;
   background-color: #FFFFF0;
 }
@@ -40,8 +40,9 @@ table, td, th {
 }
 
 th, td {
-  padding: 15px;
+  padding: 20px;
 }
 
 .planet {
+  
 }
