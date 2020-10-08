@@ -1,8 +1,11 @@
 #myHeader {
-  color: pink;
+  color: #00BFFF;
+  text-align: center;
 }
 
 #subHeader {
+  color: #00CED1;
+  text-align: center;
 }
 
 .images {
@@ -10,6 +13,7 @@
 }
 
 table {
+  color: #FFFFF0;
 }
 
 th {
