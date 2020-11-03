@@ -1,5 +1,9 @@
 body {
-  background-color: Azure;
+  background-color: url("https://caterville.files.wordpress.com/2013/11/22f7b-cis15.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.3;
 }
 
 #header {
@@ -23,6 +27,7 @@ body {
 .images {
   display: flex;
   justify-content: space-around;
+  padding-bottom: 50px;
 }
 
 table, td, th {
