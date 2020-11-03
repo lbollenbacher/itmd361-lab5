@@ -8,10 +8,12 @@
   <body>
     <h1 id="myHeader">Planet Overview</h1>
     <h2 id="subHeader">Quick &amp; Condensed Profiles</h2>
-    <img src="Planets/earth.jpg" class="images" alt="Earth" style="width:30%">
-    <img src="Planets/neptune.jpg" class="images" alt="Neptune" style="width:30%">
-    <img src="Planets/saturn.png" class="images" alt="Saturn" style="width:30%">
-    <img src="Planets/jupiter.jpg" class="images" alt="Jupiter" style="width:30%">
+    <div class="images">
+      <img src="planets/earth.jpeg" alt="Earth">
+      <img src="planets/neptune.jpg" alt="Neptune">
+      <img src="planets/saturn.jpeg" alt="Saturn">
+      <img src="planets/jupiter.png" alt="Jupiter">
+    </div>  
     <table>
       <tr>
         <th>Planet Name</th>
@@ -24,7 +26,7 @@
         <th>Revolution Period &#40;length of year in Earth days&#41;</th>
       </tr>
       <tr>
-        <td class="planet">Earth</td>
+        <td id="earth">Earth</td>
         <td>5.98 &#120169; 1024</td>
         <td>12756</td>
         <td>5520</td>
@@ -34,7 +36,7 @@
         <td>365.26</td>
       </tr>
       <tr>
-        <td class="planet">Neptune</td>
+        <td id="neptune">Neptune</td>
         <td>1.02 &#120169; 1026</td>
         <td>49528</td>
         <td>1640</td>
@@ -44,7 +46,7 @@
         <td>60,190 &#40;164.8 Earth years&#41;</td>
       </tr>
       <tr>
-        <td class="planet">Saturn</td>
+        <td id="saturn">Saturn</td>
         <td>5.69 &#120169; 1026</td>
         <td>120660</td>
         <td>690</td>
@@ -54,7 +56,7 @@
         <td>29.46</td>
       </tr>
       <tr>
-        <td class="planet">Jupiter</td>
+        <td id="jupiter">Jupiter</td>
         <td>1.90 &#120169; 1027</td>
         <td>142,800</td>
         <td>1314</td>
