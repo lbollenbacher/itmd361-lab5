@@ -23,13 +23,11 @@ body {
 .images {
   display: flex;
   justify-content: space-around;
-  border: 5px solid SlateGrey;
-  border-radius: 25px;
 }
 
 table, td, th {
   border: 5px solid SlateGrey;
-  border-radius: 25px;
+  
 }
   
  table {
@@ -51,16 +49,24 @@ th {
 
 #earth {
   color: LightGreen;
+  word-spacing: 5px;
+  font-size: 30px;
 }
 
 #neptune {
   color: LightSteelBlue;
+  word-spacing: 5px;
+  font-size: 30px;
 }
 
 #saturn {
   color: NavajoWhite;
+  word-spacing: 5px;
+  font-size: 30px;
 }
 
 #jupiter {
   color: IndianRed;
+  word-spacing: 5px;
+  font-size: 30px;
 }
