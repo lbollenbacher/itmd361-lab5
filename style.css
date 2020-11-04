@@ -1,9 +1,6 @@
 body {
-  background-image: url("background.jpg");
-  border: 2px solid SlateGrey;
-  border-radius: 25px;
+  background-image: url("background.jpg") no-repeat;
   background-color: Azure;
-  background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
 }
