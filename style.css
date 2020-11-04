@@ -75,13 +75,20 @@ th {
   font-size: 30px;
 }
 
-div.rickmorty {
+div {
+  padding-top: 50px;
+}
+
+div.quote {
   color: DarkTurquoise;
   text-align: center;
   font-family: Arial, sans-serif;
   font-size: 200%;
   word-spacing: 5px;
+  padding-top: 50px;
+}
+
+div.rick {
   display: flex;
   justify-content: center;
-  padding-top: 50px;
 }
