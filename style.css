@@ -75,7 +75,7 @@ th {
   font-size: 30px;
 }
 
-p .quote {
+p {
   color: DarkTurquoise;
   text-align: center;
   font-family: Arial, sans-serif;
@@ -85,7 +85,7 @@ p .quote {
   padding-bottom: 50px;
 }
 
-div .rick {
+#rick {
   display: flex;
   justify-content: center;
   padding-top: 50px;
