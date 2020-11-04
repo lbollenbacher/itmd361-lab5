@@ -80,9 +80,8 @@ th {
   text-align: center;
   font-family: Arial, sans-serif;
   font-size: 200%;
-  font-weight: 300;
   word-spacing: 5px;
   display: flex;
   justify-content: center;
-  padding: 50px;
+  padding-top: 50px;
 }
