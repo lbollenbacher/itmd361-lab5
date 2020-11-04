@@ -1,5 +1,7 @@
 body {
   background-image: url("background.jpg");
+  border: 2px solid SlateGrey;
+  border-radius: 25px;
   background-color: Azure;
   background-repeat: no-repeat;
   background-position: center;
