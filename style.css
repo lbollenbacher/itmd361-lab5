@@ -1,10 +1,9 @@
 body {
-  background-image: url("background.jpeg");
+  background-image: url("background.jpeg"),;
   background-color: Azure;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  opacity: 30%;
 }
 
 #header {
