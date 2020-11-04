@@ -1,6 +1,7 @@
 body {
   background-image: url("background.jpg");
   background-color: Azure;
+  background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
 }
@@ -83,5 +84,5 @@ th {
   word-spacing: 5px;
   display: flex;
   justify-content: center;
-  padding-bottom: 50px;
+  padding-top: 50px;
 }
